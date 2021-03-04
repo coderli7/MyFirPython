@@ -29,6 +29,9 @@ if __name__ == '__main__':
     p2 = Person('李四','21')
     print(p2.speak())
 
+    p3 = Person('赵四', '56')
+    print(p3.speak())
+
 
 
 
