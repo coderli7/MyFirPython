@@ -26,7 +26,7 @@ if __name__ == '__main__':
     # p1.age='18'
     # p1.name='bruce'
     # print(p1.speak())
-    p2 = Person('李四','20')
+    p2 = Person('李四','21')
     print(p2.speak())
 
 
