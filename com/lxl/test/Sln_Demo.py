@@ -31,5 +31,5 @@ if __name__ == '__main__':
     p3 = Person('赵四', '56')
     print(p3.speak())
 
-    p4 = Person('王五', '54')
+    p4 = Person('王五', '54r')
     print(p4.speak())
