@@ -18,7 +18,6 @@ def whileTest():
             print("奇数")
         i += 1
 
-
 if __name__ == '__main__':
     # print(kw.kwlist)
     whileTest()
