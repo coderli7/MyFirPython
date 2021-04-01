@@ -36,7 +36,7 @@ print(isinstance(gen1,Iterable))
 print(next(gen1))
 print("**************")
 print(next(gen1))
-print("**************")
+print("**************11")
 
 for i in gen1:
     print(i)
